@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **laravel,php,js,vuejs & python**
 
-- 💬 Ask me about **vuejs,php,laravel,python**
+- 💬 Ask me about **vuejs,php,laravel & python**
 
 - 📫 How to reach me **mfarrukhjaved381@gmail.com**
 
