@@ -1,9 +1,9 @@
 <h1 align="center">Greetings 👋, I'm Muhammad Farrukh Javed</h1>
-<h3 align="center">A Full Stack Web Application Developer | PHP Laravel | From Pakistan</h3>
+<h3 align="center">A Full Stack Web Developer & AI/ML Learner | PHP Laravel & Python | From Pakistan</h3>
 
-- 🌱 I’m currently learning **laravel,php,js,vuejs**
+- 🌱 I’m currently learning **laravel,php,js,vuejs & python**
 
-- 💬 Ask me about **vuejs,php,laravel**
+- 💬 Ask me about **vuejs,php,laravel,python**
 
 - 📫 How to reach me **mfarrukhjaved381@gmail.com**
 
