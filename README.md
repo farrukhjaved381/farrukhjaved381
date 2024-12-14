@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, I'm Muhammad Farrukh Javed</h1>
-<h3 align="center">A Full Stack Web Application Developer | PHP Laravel & MERN | From Pakistan</h3>
+<h3 align="center">A Full Stack Web Application Developer | PHP Laravel | From Pakistan</h3>
 
-- 🌱 I’m currently learning **laravel,php,js,vuejs & MERN**
+- 🌱 I’m currently learning **laravel,php,js,vuejs**
 
 - 💬 Ask me about **vuejs,php,laravel**
 
