@@ -1,7 +1,9 @@
 <h1 align="center">Greetings 👋, I'm Muhammad Farrukh Javed</h1>
-<h3 align="center">A Full Stack Web Developer & AI/ML Learner | PHP Laravel & Python | From Pakistan</h3>
+<h3 align="center">A Full Stack Web Developer & AI/ML Learner | MERN Stack & Python | From Pakistan</h3>
 
-- 🌱 I’m currently learning **laravel,php,js,vuejs & python**
+- 🌱 I’m currently learning **Next JS,Nest JS & python**
+
+- ✅ Skills i have **html,css,php,laravel,vue js & python**
 
 - 💬 Ask me about **vuejs,php,laravel & python**
 
