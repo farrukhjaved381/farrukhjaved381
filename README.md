@@ -1,11 +1,11 @@
 <h1 align="center">Greetings 👋, I'm Muhammad Farrukh Javed</h1>
-<h3 align="center">A Full Stack Web Developer & AI/ML Learner | MERN Stack & Python | From Pakistan</h3>
+<h3 align="center">A Full Stack Developer & AI/ML Learner From Pakistan</h3>
 
-- 🌱 I’m currently learning **Next JS,Nest JS & python**
+- 🌱 I’m currently learning **Agentic AI , Machine Learning , Deep Learning , Data Science**
 
-- ✅ Skills i have **html,css,php,laravel,vue js & python**
+- ✅ Skills i have **HTML,CSS,PHP,laravel,Javascript,Express JS,vue js, React JS, Next JS,Nest JS& python**
 
-- 💬 Ask me about **vuejs,php,laravel & python**
+- 💬 Ask me about **Web Development & Agentic AI**
 
 - 📫 How to reach me **mfarrukhjaved381@gmail.com**
 
